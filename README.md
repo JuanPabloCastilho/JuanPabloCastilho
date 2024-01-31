@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou o @JuanPabloCastilho.
+- 👀 Eu estou interessado em criar projetos aqui no github para ter um pouco de portfólio.
+- 🌱eu estou no momento me aprofundando um pouco mais em python, e depois pretendo aprender mais sobre java script.
